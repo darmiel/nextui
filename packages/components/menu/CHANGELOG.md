@@ -1,5 +1,13 @@
 # @nextui-org/menu
 
+## 2.0.9
+
+### Patch Changes
+
+- Updated dependencies [[`a3be419cb`](https://github.com/nextui-org/nextui/commit/a3be419cb3c693ae8cace15f9a863274d759ddb1)]:
+  - @nextui-org/theme@2.1.7
+  - @nextui-org/divider@2.0.18
+
 ## 2.0.8
 
 ### Patch Changes
